@@ -21,6 +21,7 @@ release
 .DS_Store
 *.out
 *.txt
+!complete_verifier/assignment4/*.txt
 release
 release_abcrown
 cachier
