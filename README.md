@@ -1,6 +1,6 @@
-# Assignment 4 – Reliable and Trustworthy AI
+# Assignment 4 – Trustworthy AI
 
-This repository contains my submission for **Assignment #4** of the *Reliable and Trustworthy AI* course.  
+This repository contains my submission for **Assignment #4** of the *Trustworthy AI* course.  
 The assignment focuses on using the [α, β-CROWN](https://github.com/Verified-Intelligence/auto_LiRPA) verification tool to evaluate neural network robustness.
 
 ---
