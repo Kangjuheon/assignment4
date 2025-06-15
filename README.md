@@ -65,15 +65,6 @@ assignment4/
 
 ---
 
-## 📄 Report Contents
-
-See `report.pdf` for a summary of:
-- Selected model and dataset
-- α, β-CROWN configuration
-- Verification results and insights
-
----
-
 ## 📌 Notes
 
 - This project uses [α, β-CROWN](https://github.com/Verified-Intelligence/auto_LiRPA) as a **submodule**.
