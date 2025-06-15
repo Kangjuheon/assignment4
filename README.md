@@ -1,3 +1,7 @@
+Assignment4
+======================
+For Assignment 4, please check the files in complete_verifier/assignment4 and custom/fmnist_custom_model_data.py.
+
 α,β-CROWN (alpha-beta-CROWN): A Fast and Scalable Neural Network Verifier with Efficient Bound Propagation
 ======================
 
